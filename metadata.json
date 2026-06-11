@@ -1,0 +1,6 @@
+{
+  "name": "Unity Tools",
+  "description": "An interactive utility suite for game developers, featuring an AI C# Script Architect, LayerMask math calculators, pixel-perfect Cam & FOV calculators, JSON-to-Serializable code generators, and adaptive color exorters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
